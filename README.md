@@ -5,3 +5,6 @@ I implement regularized logistic regression to predict whether microchips from a
 I have the test results for some microchips on two different tests. From these two tests, I would like to determine whether the microchips should be accepted or rejected.
 
 Remarks:
+1/ ex2_reg.m is the main body of the code. 
+2/ costFunctionReg.m, mapFeature.m, plotData.m, plotDecisionBoundary.m, predict.m and sigmoid.m are functions called in the main body.
+3/ ex2data2 is the dataset: first and second columns are the test results and third column gives QA result (0/1).
