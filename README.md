@@ -6,6 +6,7 @@ I have the test results for some microchips on two different tests. From these t
 
 Please check resultsLambdaX.pdf to visualize the results for different regularization parameters lambda X=0,1,10. 
 
+=============================================================================================================
 Files included:
 
 ex2 reg.m - Octave/MATLAB script
